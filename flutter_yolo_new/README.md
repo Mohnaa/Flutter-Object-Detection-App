@@ -2,7 +2,7 @@
 A new Flutter project.
 
 # Packages Used
-- [Camera[(https://pub.dev/packages/camera)
+- [Camera](https://pub.dev/packages/camera)
 
 ## Getting Started
 This project is a starting point for a Flutter application.
